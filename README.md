@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n3iTh4N (Neithan Casano)
-- 👀 I’m interested in creating Rails applications
-- 🌱 I’m currently learning deploying Rails applications on Heroku
+- 👀 I’m interested in Gamification and Embodied Cognition applications.
+- 🌱 I’m currently a data analyst for the WHIMC Project (https://whimcproject.web.illinois.edu/) through a grant managed by ALLS-AdMU
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me jonathancasano@gmail.com
 
